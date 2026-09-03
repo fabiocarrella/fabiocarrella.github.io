@@ -1,3 +1,6 @@
 .Rproj.user/
 .quarto/
 Website.Rproj
+
+/.quarto/
+**/*.quarto_ipynb

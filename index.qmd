@@ -70,13 +70,7 @@ University of Campinas (UNICAMP)
 
 ::: {.bio-column}
 
-I am a researcher working at the intersection of language, communication, and computational social science. I am currently a Postdoctoral Researcher at the Institute of Computing, University of Campinas (UNICAMP), where I study misinformation, political communication, and digital media using computational methods.
-
-My research explores how information, misinformation, and political discourse shape beliefs and behaviour in digital environments. I am particularly interested in how political actors communicate online, how people encounter and respond to unreliable information, and how emerging technologies such as large language models are changing digital communication and the dynamics of misinformation.
-
-In recent years, my work has increasingly moved towards computational approaches to social science, including natural language processing, text analysis, large language models, and computational analysis of digital data. Before joining UNICAMP, I was a Senior Research Associate at the University of Bristol, and I currently serve on the Editorial Board of *Communications Psychology*.
-
-My research has appeared in journals including *Nature Human Behaviour*, *Nature Communications*, *PNAS Nexus*, *Communications Psychology*, and *EACL*.
+I study language, communication, and cognition in digital environments using computational methods. I am currently a Postdoctoral Researcher at the Institute of Computing, University of Campinas (UNICAMP), and previously worked as a Senior Research Associate at the University of Bristol. I also serve on the Editorial Board of *Communications Psychology*, and my research has appeared in journals including *Nature Human Behaviour*, *Nature Communications*, *PNAS Nexus*, *Communications Psychology*, and *EACL*.
 
 
 :::
@@ -90,11 +84,13 @@ My research has appeared in journals including *Nature Human Behaviour*, *Nature
 
 # Research
 
-My research explores how information, misinformation, and political communication shape beliefs and behaviour in digital environments. I draw on perspectives from linguistics, communication, and social science, increasingly combining them with computational approaches to analyse language and digital data at scale.
+My research examines misinformation, political communication, and the role of emerging technologies in online environments. I use computational approaches to study language and digital data, drawing on natural language processing, corpus and text analysis, statistical modelling, experiments, and large language models.
 
-My work has addressed political discourse and misinformation, honesty and political communication, and digital persuasion and microtargeting. More recently, I have increasingly moved towards research on artificial intelligence, exploring how AI-generated and AI-mediated content interacts with misinformation and communication dynamics in online communities, and how large language models can be used to study communication and social behaviour. Across these areas, I use empirical and computational methods including text analysis, natural language processing, statistical modelling, experiments, and analyses of social media and other digital data.
+A central part of my work examines misinformation and political discourse develop and spread online. I have studied political discourse and populist language on social media, political honesty, persuasion, and the diffusion of low-quality information.
 
-My current work focuses increasingly on artificial intelligence, misinformation, and digital communities, with particular attention to AI-mediated communication and the use of large language models to study social behaviour.
+More recently, I have been extending this research to online communities and artificial intelligence. My current work includes the study of misinformation in radicalised communities on Telegram and the use of LLM-agent-based approaches to studying and intervening in online communities.
+
+
 
 
 ## Selected Publications
